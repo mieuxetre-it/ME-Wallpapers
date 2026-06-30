@@ -1,1 +1,3 @@
-# WallpaperVSL
+# Mieux-etre Wallpapers
+
+Collection of wallpapers for all our clinics.
