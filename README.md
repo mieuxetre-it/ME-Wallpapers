@@ -21,7 +21,7 @@ This repo is **public on purpose**. The NinjaOne scripts download the images ano
 Both scripts build the download URL as:
 
 ```text
-https://raw.githubusercontent.com/jean-philippemercier/ME-Wallpapers/main/<path>
+https://raw.githubusercontent.com/mieuxetre-it/ME-Wallpapers/main/<path>
 ```
 
 Downloaded files are cached in `C:\ProgramData\ME-Wallpapers`. If GitHub can't be reached, the last cached copy is used.
